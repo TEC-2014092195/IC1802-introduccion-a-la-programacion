@@ -1,0 +1,5 @@
+Octavos,Brazil,Holanda,España,Mexico,Colombia,Inglaterra,Uruguay,Costa de Marfil,Francia,Iran,Argentina,Suiza,Alemania,Rusia,Belgica,Ghana,
+Cuartos,Holanda,Mexico,Inglaterra,Uruguay,Francia,Suiza,Alemania,Belgica,
+Semifinal,Mexico,Inglaterra,Francia,Alemania,
+Final,Inglaterra,Alemania,
+Ganador,Inglaterra,

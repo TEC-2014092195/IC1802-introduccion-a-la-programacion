@@ -1,0 +1,5 @@
+Octavos,Brazil,Australia,Holanda,Camerun,Colombia,Inglaterra,Costa Rica,Japan,Suiza,Nigeria,Bosnia,Francia,Alemania,Rusia,Belgica,Ghana,
+Cuartos,Brazil,Camerun,Colombia,Costa Rica,Suiza,Francia,Alemania,Belgica,
+Semifinal,Camerun,Costa Rica,Suiza,Alemania,
+Final,Costa Rica,Alemania,
+Ganador,Costa Rica,

@@ -1,0 +1,16 @@
+Venta de Ticketes de Cine:
+
+Ud debe crear una aplicación en modo gráfico que funcione de dos modos:
+
+1.El administrador:
+	a.Debe permitir definir cines, asientos, peliculas, precios y horarios.
+	b.Las entradas al cine tienen tres rangos VIP, Regular, Gradería cada una con su propio precio
+	c.Ver cuales peliculas llenan mas los cines
+	d.Contabilizar ingresos por entradas
+2.Modo usuario:
+	a.Mostrar el cine y sus asientos disponibles/no disponibles
+	b.Debe poder sugerir asientos
+	c.Debe permitir al usuario escoger asientos
+ 
+
+No olvide el manual de usuario/tecnico

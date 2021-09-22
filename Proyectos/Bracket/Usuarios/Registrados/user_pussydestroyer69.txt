@@ -1,0 +1,3 @@
+CRC,ITA,MEX,BRA,
+BRA,CRC,
+CRC,

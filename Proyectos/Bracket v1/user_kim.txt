@@ -1,0 +1,5 @@
+Octavos,Brazil,Chile,España,Mexico,Grecia,Inglaterra,Uruguay,Japan,Suiza,Iran,Argentina,Francia,Alemania,Korea,Algeria,Estados Unidos,
+Cuartos,Brazil,España,Grecia,Uruguay,Suiza,Argentina,Korea,Estados Unidos,
+Semifinal,España,Uruguay,Suiza,Korea,
+Final,España,Korea,
+Ganador,España,

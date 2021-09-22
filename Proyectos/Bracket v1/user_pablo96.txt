@@ -1,0 +1,5 @@
+Octavos,Brazil,Chile,España,Mexico,Colombia,Inglaterra,Costa Rica,Costa de Marfil,Suiza,Iran,Bosnia,Francia,Portugal,Rusia,Algeria,Estados Unidos,
+Cuartos,Chile,Mexico,Inglaterra,Costa Rica,Suiza,Bosnia,Portugal,Algeria,
+Semifinal,Chile,Costa Rica,Suiza,Portugal,
+Final,Costa Rica,Portugal,
+Ganador,Costa Rica,

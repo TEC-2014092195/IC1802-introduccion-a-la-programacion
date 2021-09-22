@@ -1,0 +1,2 @@
+GrupoA,CRC,ARG,PAR,TEC,
+GrupoB,ITA,URU,CHI,POL,

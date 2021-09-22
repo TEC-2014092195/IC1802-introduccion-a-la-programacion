@@ -1,0 +1,8 @@
+Grupo A,Brazil,Croacia,Mexico,Camerun,
+Grupo B,España,Holanda,Chile,Australia,
+Grupo C,Colombia,Grecia,Costa de Marfil,Japan,
+Grupo D,Uruguay,Costa Rica,Inglaterra,Italia,
+Grupo E,Suiza,Ecuador,Francia,Honduras,
+Grupo F,Argentina,Bosnia,Iran,Nigeria,
+Grupo G,Alemania,Portugal,Ghana,Estados Unidos,
+Grupo H,Belgica,Algeria,Rusia,Korea,
